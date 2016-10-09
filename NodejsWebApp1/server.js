@@ -26,7 +26,7 @@ app.use((errno, request, response, next) => {
 
 
 
-
+//npm
 
 //allos service of static file
 app.use(express.static('images'));
